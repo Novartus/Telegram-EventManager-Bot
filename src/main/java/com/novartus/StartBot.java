@@ -18,7 +18,7 @@ public class StartBot {
         } catch (TelegramApiException e) {
                 e.printStackTrace();
         }
-        clearScreen();;
+        clearScreen();
         System.out.println("Started Bot");
     }
     public static void clearScreen() {
