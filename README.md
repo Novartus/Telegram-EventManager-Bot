@@ -2,13 +2,13 @@
 - EventManagerBot is a bot which helps User/Organization to handle the registration and confirmation of RSVPs & Registrations of the users through Telegram with the help of MongoDB to manage the DataBase.
 
 ## Telegram:
-Telegram is a cloud-based instant messaging and voice over IP service. 
-Telegram client apps are available for Android, iOS, Windows Phone, Windows NT, macOS and GNU/Linux. 
-Users can send messages and exchange photos, videos, stickers, audio and files of any type.
+- Telegram is a cloud-based instant messaging and voice over IP service. 
+- Telegram client apps are available for Android, iOS, Windows Phone, Windows NT, macOS and GNU/Linux. 
+- Users can send messages and exchange photos, videos, stickers, audio and files of any type.
 
 ## Telegram Bot:
-Bots are simply Telegram accounts operated by software – not people – and they'll often have AI features.
-They can do anything – teach, play, search, broadcast, remind, connect, integrate with other services, or even pass commands to the Internet of Things.
+- Bots are simply Telegram accounts operated by software – not people – and they'll often have AI features.
+- They can do anything – teach, play, search, broadcast, remind, connect, integrate with other services, or even pass commands to the Internet of Things.
 
 ## How To Use ?:
 - Ping BotFather in Telegram. It will provide you your 'API Token', Bot Name.
