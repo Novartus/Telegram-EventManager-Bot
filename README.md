@@ -17,7 +17,9 @@
 - Bot Name : Replace the sample bot name with your bot name.
 
 ## Features:
-- TasksManagement App is a Windows/Linux/Mac application created in Java with the help of JavaFX to easily create and maintain your tasks. It helps user to easily maintain Tasks with Simple and Elegant GUI to make the managment easier.
+- This Bot Helps the User admin to to handle the registration and confirmation of RSVPs.
+- Database: With the help of MongoDB Cloud Atlas. So participants information can be store in the cloud database.
+- Security: It provides exculsive rights to admin to delete Database from a single Message. And if unauthorized user tries to fire the command then incident will be directly reported to the admin with its user details.
 
 ## Credits:
 [Rubenlagus](https://github.com/rubenlagus/) for his amazing library and support.
